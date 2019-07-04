@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 <<!-- Hello GitHub! -->>
 
+=======
+>>>>>>> parent of 5494e61... git status
 <?php
 
   echo "<p>login - ".$_POST["login"]."</p>";
